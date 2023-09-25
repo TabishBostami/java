@@ -4,7 +4,7 @@ public class forloop {
   
 
     for(; ;) {
-        System.out.println("Apna College");
+        System.out.println("Tabish");
     }
 }
 }
